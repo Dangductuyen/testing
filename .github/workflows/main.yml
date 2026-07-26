@@ -22,7 +22,9 @@ jobs:
       # Chỉ cần cài đặt thư viện 'colors', các thư viện khác đã có sẵn
       - name: Cài đặt thư viện bên ngoài
         run: npm install colors
+      - name:
+        run: npm install gradient-string
 
       # Chạy file với hệ số
       - name: Chạy Tool
-        run: node https.js https://c4.dstatbot.win/0dqzV7Xg 300 100 50 proxy.txt
+        run: node UAM.js https://c4.dstatbot.win/nPE9dIi0 300 200 100 proxy.txt

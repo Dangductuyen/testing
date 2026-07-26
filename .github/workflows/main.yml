@@ -24,6 +24,8 @@ jobs:
         run: npm install colors
       - name:
         run: npm install gradient-string
+      - name:
+        run: npm install fake-useragent
 
       # Chạy file với hệ số
       - name: Chạy Tool

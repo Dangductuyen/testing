@@ -25,8 +25,8 @@ jobs:
       - name:
         run: npm install gradient-string
       - name:
-        run: npm install fake-useragent
+        run: npm install uuid
 
       # Chạy file với hệ số
       - name: Chạy Tool
-        run: node https.js https://c2.dstatbot.win/X6VMAZfS 300 500 500 proxy.txt
+        run: node y.js https://shopdhau.com 300 30 80 --query

@@ -29,4 +29,4 @@ jobs:
 
       # Chạy file với hệ số
       - name: Chạy Tool
-        run: node y.js https://truonghoangkhiem.site/ 300 50 800 --query
+        run: node y.js http://buymmo.net/ 300 50 800 --query

